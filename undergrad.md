@@ -15,4 +15,4 @@
 **Project Files:**
 - Slides for my [talk](/UNDERGRAD/MAA Section Meeting Talk 2016.pdf) on the fourth-order SL problem at the 2016 OK-AR MAA meeting in Conway, AR (awarded [R.B. Deal Undergraduate Oral Presentation Award: 1st Place](http://sections.maa.org/okar/history/RBDealAwards.html))
 - [Poster presentation](/UNDERGRAD/EvenOrder_OKRD.pdf) for even-order problem at 2016 OK Research Day
-- [Poster presentation](JMM 2016 - Daniel Brumley.pdf) for even-order problem at the 2016 Joint Mathematics Meetings in Seattle, WA
+- [Poster presentation](/UNDERGRAD/JMM 2016 - Daniel Brumley.pdf) for even-order problem at the 2016 Joint Mathematics Meetings in Seattle, WA
