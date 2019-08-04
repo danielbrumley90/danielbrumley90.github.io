@@ -1,6 +1,6 @@
 ## Projects
 
-[UNIDEL Summer Research](/sample_page)
+[UNIDEL Summer Research](/unidel)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
