@@ -7,7 +7,6 @@
 **Brief Project Description:** 
 
 - Investigated the stochastic differential equations and corresponding partial differential equations governing biophysical processes related to protein folding under Smoluchowski and Klein-Kramer dynamics
-- Core work revolved around latter scheme: developed appropriate boundary conditions, verified a steady state solution, and derived backward Fokker-Planck equation
 - Funded through $3600 UNIDEL Summer Research Grant
 
 **Project Files:** 
