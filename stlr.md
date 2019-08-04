@@ -1,4 +1,4 @@
-## Master's Thesis: Existence Results for a Class of Even-Order Boundary Value Problems
+## Project STLR: Student Readiness Assessment
 
 **Project Date:** January 2016&ndash;May 2016
 <br><br>
