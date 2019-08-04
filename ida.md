@@ -10,4 +10,4 @@
 
 **Project Files:** 
 
-- The [completed project] that I submitted. (A grade of "A" was received for both the project and course.)
+- The [completed project](/IDA/Brumley-FinalProject.pdf) that I submitted. (A grade of "A" was received for both the project and course.)
