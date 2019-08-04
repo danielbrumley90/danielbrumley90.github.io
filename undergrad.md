@@ -8,7 +8,7 @@
 - Completed three distinct research projects as an undergraduate that utilized functional analysis techniques to demonstrate the existence of positive solutions to several different classes of differential equations
   - The first project was worked on during the Spring of 2015. Olivia Bennett was the original undergraduate advisee and had completed the first two (of four) lemmas needed for the main result. I contributed the remainging two lemmas, while simultaneously extending the results to the even-order case (see below).
   - The second project was also completed in Spring of 2015. It was an extension of the results of the preceding work to even-order. 
-  - The third and final project focused on a fourth-order boundary value problem of Sturm-Liouiville type. This work served as the basis for my [master's thesis](./thesis)
+  - The third and final project focused on a fourth-order boundary value problem of Sturm-Liouiville type. This work served as the basis for my [master's thesis](./thesis).
 - All three projects culminated in publications. (See Publications section on homepage.)
 - The first two projects were overseen by Drs. Britney Hopkins, Kristi Karber, and Thomas Milligan; Dr. Michael Fulkerson replaced Dr. Thomas Milligan on the third.
 
