@@ -2,15 +2,11 @@
 
 [UNIDEL Summer Research](/unidel)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 [Master's Thesis: Existence Results for a Class of Even-Order Boundary Value Problems](/thesis)
 
 [Pathway and Gene Selection with Guided Regularized Random Forests](/genes)
 
-[Intelligent Data Analytics: Final Project]
+[Intelligent Data Analytics: Final Project](/ida)
 
 [Project STLR: Student Readiness Assessment]
 
