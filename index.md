@@ -18,7 +18,7 @@ Vim decore iriure ea, per utamur laboramus no. Solet tractatos vis an, aperiri i
 
 [Intelligent Data Analytics: Final Project](/ida)
 
-[Project STLR: Student Readiness Assessment]
+[Project STLR: Student Readiness Assessment](/stlr)
 
 [Undergraduate Mathematics Research]
 
