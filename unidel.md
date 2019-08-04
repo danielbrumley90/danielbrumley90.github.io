@@ -10,8 +10,6 @@
 - Core work revolved around latter scheme: developed appropriate boundary conditions, verified a steady state solution, and derived backward Fokker-Planck equation
 - Funded through $3600 UNIDEL Summer Research Grant
 
-<br><br>
-
 **Project Files:** [My research notes](/sample_page)
 
 
