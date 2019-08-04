@@ -20,7 +20,7 @@ Vim decore iriure ea, per utamur laboramus no. Solet tractatos vis an, aperiri i
 
 [Project STLR: Student Readiness Assessment](/stlr)
 
-[Undergraduate Mathematics Research]
+[Undergraduate Mathematics Research](/undergrad)
 
 [Urban ACT Prep]
 
