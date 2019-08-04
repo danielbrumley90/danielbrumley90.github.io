@@ -10,6 +10,7 @@
 - Core work revolved around latter scheme: developed appropriate boundary conditions, verified a steady state solution, and derived backward Fokker-Planck equation
 - Funded through $3600 UNIDEL Summer Research Grant
 
-**Project Files:** [My research notes](/sample_page)
+**Project Files:** 
 
-
+- [Slide presentation](/sample_page) given by Dr. Pak-Wing Fok at the GEMS-UNIDEL seminar. The presentation provides background on the problem under assumptions of Smoluchowski dynamics.
+- My [research notes](/sample_page) compiled during the course of the project.
