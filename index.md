@@ -10,6 +10,8 @@
 
 [Pathway and Gene Selection with Guided Regularized Random Forests]
 
+[Intelligent Data Analytics: Final Project]
+
 [Project STLR: Student Readiness Assessment]
 
 [Undergraduate Mathematics Research]
