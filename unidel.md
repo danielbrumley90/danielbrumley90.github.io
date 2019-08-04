@@ -1,6 +1,6 @@
 ## UNIDEL Summer Research
 
-**Project Date:** June 2019--July 2019
+**Project Date:** June 2019&mdash;July 2019
 <br><br>
 **Advisor:** Dr. Pak-Wing Fok
 <br><br>
