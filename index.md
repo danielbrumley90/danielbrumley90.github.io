@@ -17,11 +17,14 @@
 ---
 
 [Project STLR: Student Readiness Assessment]
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Undergraduate Mathematics Research]
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Urban ACT Prep]
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
