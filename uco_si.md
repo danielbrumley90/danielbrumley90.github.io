@@ -2,7 +2,7 @@
 
 **Date:** August 2014&ndash;May 2016
 <br><br>
-**Advisor:** Dr. Luis Montes
+**Supervisor:** Dr. Luis Montes
 <br><br>
 **Brief Description:** 
 
