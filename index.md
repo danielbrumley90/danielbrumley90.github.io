@@ -42,7 +42,7 @@ Vim decore iriure ea, per utamur laboramus no. Solet tractatos vis an, aperiri i
 
 - [Graduate Teaching Assistant](/ud_ta)
 
-Some Student Comments (click above for full report):
+**Some Student Comments (click above for full report):**
 
 > Daniel Brumley taught his section so well that I benefited from discussion much, much more than I did in lecture. Daniel was so excellent that he should receive an award. Daniel cares about teaching, his office hours were helpful, and he explained concepts in class thoroughly.
 
