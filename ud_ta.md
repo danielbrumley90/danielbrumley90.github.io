@@ -12,5 +12,5 @@
 
 **Instructor Evaluations:** 
 
-- My [instructor evaluations](/TEACHING/CourseEvalReport.pdf) for the Fall 2018 and Spring 2019 semesters
+- My [instructor evaluations](/TEACHING/CourseEvalReport.pdf) (with student comments) for the Fall 2018 and Spring 2019 semesters
 - A [report](/TEACHING/DepartmentalAverages.png) showing my instructor evaluation scores relative to departmental averages for the Fall 2018 and Spring 2019 semesters
