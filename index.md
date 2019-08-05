@@ -37,3 +37,13 @@ Vim decore iriure ea, per utamur laboramus no. Solet tractatos vis an, aperiri i
 ---
 
 # Teaching
+
+### At University of Delaware
+
+- Teaching Assistant
+
+### At University of Central Oklahoma
+
+- Teaching Assistant
+
+- Supplemental Instructor
