@@ -28,11 +28,11 @@ Vim decore iriure ea, per utamur laboramus no. Solet tractatos vis an, aperiri i
 
 # Publications
 
-**2017**    O. Bennett, **D. Brumley**, B. Hopkins, K. Karber, and T. Milligan, [The Multiplicity of Solutions for a System of Second Order Differential Equations](https://msp.org/involve/2017/10-1/p06.xhtml), Involve: A Journal of Mathematics, Vol. 10(1).
+- O. Bennett, **D. Brumley**, B. Hopkins, K. Karber, and T. Milligan, [The Multiplicity of Solutions for a System of Second Order Differential Equations](https://msp.org/involve/2017/10-1/p06.xhtml), Involve: A Journal of Mathematics, Vol. 10(1), 2017.
 
-**2016**    **D. Brumley**, B. Hopkins, K. Karber, and T. Milligan, [The Existence of Solutions of Classes of Even-Order Differential Equations](http://campus.mst.edu/adsa/contents/v11n1p2.pdf), Advances in Dynamical Systems and Applications, Vol. 11(1).
+- **D. Brumley**, B. Hopkins, K. Karber, and T. Milligan, [The Existence of Solutions of Classes of Even-Order Differential Equations](http://campus.mst.edu/adsa/contents/v11n1p2.pdf), Advances in Dynamical Systems and Applications, Vol. 11(1), 2016.
 
-**2016**    **D. Brumley**, M. Fulkerson, B. Hopkins, and K. Karber, [Existence of Positive Solutions for a Class of Fourth Order Boundary Value Problems](https://ijpam.eu/en/index.php/ijdea/article/view/3350), International Journal of Differential Equations and Applications, Vol. 15(2).
+- **D. Brumley**, M. Fulkerson, B. Hopkins, and K. Karber, [Existence of Positive Solutions for a Class of Fourth Order Boundary Value Problems](https://ijpam.eu/en/index.php/ijdea/article/view/3350), International Journal of Differential Equations and Applications, Vol. 15(2), 2016.
 
 ---
 
