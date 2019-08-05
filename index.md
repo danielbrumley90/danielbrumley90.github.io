@@ -42,8 +42,22 @@ Vim decore iriure ea, per utamur laboramus no. Solet tractatos vis an, aperiri i
 
 - [Graduate Teaching Assistant](/ud_ta)
 
+Some Student Responses (click above for full report)
+
+> Daniel Brumley taught his section so well that I benefited from discussion much, much more than I did in lecture. Daniel was so excellent that he should receive an award. Daniel cares about teaching, his office hours were helpful, and he explained concepts in class thoroughly.
+
+> He was an easy going guy who explained what we were doing very well, you could tell he cared about the students because he always had office hours and was in discussion before and after to help students out.
+
+> Awesome!!!!!! He is the only reason why I am passing calculus. He was always willing to help and had multiple sessions outside of class time for test prep.
+
+> Great TA, actually cares, actually knows the content very well and is very good at explaining complicated concepts.
+
+> excellent TA kind to everyone and explained everything in a way that helped everyone understand always put his students first and was always willing to help
+
 ### University of Central Oklahoma
 
 - [Graduate Teaching Assistant](/uco_ta)
 
 - [Supplemental Instructor](/uco_si)
+
+
