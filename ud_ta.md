@@ -2,7 +2,7 @@
 
 **Date:** August 2018&ndash;May 2019
 <br><br>
-**Advisor:** Dr. Gilberto Schleineger
+**Supervisor:** Dr. Gilberto Schleineger
 <br><br>
 **Brief Description:** 
 
