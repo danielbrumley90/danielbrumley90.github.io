@@ -40,10 +40,10 @@ Vim decore iriure ea, per utamur laboramus no. Solet tractatos vis an, aperiri i
 
 ### University of Delaware
 
-- Teaching Assistant
+- [Teaching Assistant](/ud_ta)
 
 ### University of Central Oklahoma
 
-- Teaching Assistant
+- [Teaching Assistant](/uco_ta)
 
-- Supplemental Instructor
+- [Supplemental Instructor](/uco_si)
