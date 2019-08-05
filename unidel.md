@@ -11,5 +11,5 @@
 
 **Project Files:** 
 
-- [Slide presentation](/UNIDEL/GEMS_Unidel.pdf) given by Dr. Pak-Wing Fok at the GEMS-UNIDEL seminar. The presentation provides background on the problem under assumptions of Smoluchowski dynamics.
 - My [research notes](/UNIDEL/NotesOnKramersEquation.pdf) compiled during the course of the project.
+- [Talk](/UNIDEL/GEMS_Unidel.pdf) given by Dr. Pak-Wing Fok at the GEMS-UNIDEL seminar that provides some background on the problem.
