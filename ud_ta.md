@@ -1,4 +1,4 @@
-## University of Delaware: Teaching Assistant
+## University of Delaware: Graduate Teaching Assistant
 
 **Date:** August 2018&ndash;May 2019
 <br><br>
