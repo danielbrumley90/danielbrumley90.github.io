@@ -10,4 +10,4 @@
 
 **Project Files:** 
 
-- The [completed project](/IDA/Brumley-FinalProject.pdf) that I submitted. Note that the code for the project is included as an appendix. (A grade of "A" was received for both the project and course.)
+- The [completed project](/IDA/Brumley-FinalProject.pdf) that I submitted. Note that the code for the project is included in Appendix D. (A grade of "A" was received for both the project and course.)
