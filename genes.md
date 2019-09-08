@@ -12,4 +12,6 @@
 **Project Files:** 
 
 - The [presentation](/GENES/JMM2018_GRRF.pdf) I gave at the 2018 Joint Mathematics Meetings in San Diego. 
-- [code snippet](https://github.com/danielbrumley90/danielbrumley90.github.io/blob/master/GENES/Genes.R)
+- A more detailed [description](/GENES/PathwayAnalysisPaper_Sections4&5.pdf) of the project. (Note: This description is part of a larger paper awaiting publication.)
+- The code I wrote for the [pathway ranking](https://github.com/danielbrumley90/danielbrumley90.github.io/blob/master/GENES/Pathways.R) and [gene selection](https://github.com/danielbrumley90/danielbrumley90.github.io/blob/master/GENES/Genes.R) components of the simulation.
+- The code I wrote to obtain the [breast cancer data results](https://github.com/danielbrumley90/danielbrumley90.github.io/blob/master/GENES/BreastCancer.R).
