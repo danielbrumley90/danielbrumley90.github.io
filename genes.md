@@ -12,3 +12,4 @@
 **Project Files:** 
 
 - The [presentation](/GENES/JMM2018_GRRF.pdf) I gave at the 2018 Joint Mathematics Meetings in San Diego. 
+- [code snippet](/GENES/BreastCancer.R)
