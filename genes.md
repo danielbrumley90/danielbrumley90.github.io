@@ -8,7 +8,7 @@
 
 - Developed simulations in R to assess the efficacy of a new methodological approach that utilized guided regularized random forests to identify important genes and genetic pathways when modeling for a particular biological outcome using microarray data
 - Applied method to a breast cancer data set to identify important pathways, the results of which corresponded to empirical findings
-- Created a data visualization application in R using Shiny that won the Best Visualization Award at the 2018 UCO CREIC Symposium
+- Created an application in R to visualize random forest results using the [shiny](https://shiny.rstudio.com/) and [forestFloor](http://forestfloor.dk/) packages that won the Best Visualization Award at the 2018 UCO CREIC Symposium
 
 **Project Files:** 
 
